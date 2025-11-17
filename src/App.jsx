@@ -31,7 +31,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>My App</h1>
+      <h1>My App Update</h1>
       <p>Check the developer console (F12) for the Firebase connection status.</p>
     </div>
   );
